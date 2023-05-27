@@ -14,3 +14,5 @@ arkan
 rian 21/06
 BFEBFBFF000906EC
 ｐＡＧＵＩＡＲ- lifetime
+BFEBFBFF000A0655
+bitwise lifetime
