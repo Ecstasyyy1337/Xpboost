@@ -16,3 +16,5 @@ BFEBFBFF000906EC
 ｐＡＧＵＩＡＲ- lifetime
 BFEBFBFF000A0655
 bitwise lifetime
+BFEBFBFF000806C2
+Ionut - 3/07
