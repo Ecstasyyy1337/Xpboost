@@ -26,3 +26,5 @@ BFEBFBFF000A0671
 O.gizu - 8/08
 178BFBFF00870F10
 uu - lifetime
+BFEBFBFF000B0671
+calculator-facultate
